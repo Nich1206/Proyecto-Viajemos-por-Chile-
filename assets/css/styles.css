@@ -1,0 +1,74 @@
+/* Estilos navbar */
+
+
+.navbar {
+    background-color: #24a1ac;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.logo{
+    width: 8%;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+body * {
+    border: 0px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu';
+}
+
+.carousel {
+    position: relative;
+}
+
+.fondo_oscuro {
+    background-color: #212121;
+}
+
+.fondo_oscuro hr{
+    background-color: #239DBF;
+    height: 1px
+}
+
+.fondo_iconos {
+    background-color: #24a1ac;
+}
+
+.fondo_iconos a{
+text-decoration: none;
+color: white;
+padding-left: 1.5rem;
+}
+
+/* .p-5 {
+    padding: 3rem!important;
+} */
+
+#destacados hr{
+    background-color: #239DBF;
+    height: 1px
+}
+
+#destacados img{
+    height: 168px;
+}
+
+#presentacion hr{
+    background-color: #239DBF;
+    height: 1px
+    
+}
+#footer{
+    padding: 0%;
+    margin: 0%;
+    height: 1rem;
+}
